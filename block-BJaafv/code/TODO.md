@@ -11,6 +11,8 @@ function sum(a, b) {
   console.log(a + b);
 }
 ```
+console. log is function that logs passed in argument to console. return is keyword, which part of the return statement, used to end function execution.
+
 
 2. If we store the returned value of both functions above in variable `first` and `second` what will be the value of `first` and `second`.
 
